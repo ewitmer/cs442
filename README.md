@@ -4,7 +4,7 @@ The [assignment]('p2/assignment.pdf') was related to the study of automated reas
 
 Reviewing this code as a more experienced engineer, I see several ways in which it could be improved. At the time I wrote this, I was a self-taught programmer with no relevant work experience and an undergraduate degree and work experience in an unrelated domain. Considering that, I believe this work shows:
 
-* A create approach to problem solving (implementing the solution with a tree structure)
+* A creative approach to problem solving (implementing the solution with a tree structure)
 * Attention to detail (implementing basic testing which was not required for the projects)
 * Going above and beyond (implementing the two extra credit opportunities)
 * An ability to write clear [technical documentation](p2/writeup/report.pdf)
